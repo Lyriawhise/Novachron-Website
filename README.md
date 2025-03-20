@@ -1,17 +1,3 @@
-NOVACHRON/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── about.jpg
-│   ├── jam1.jpg
-│   ├── jam2.jpg
-│   ├── jam3.jpg
-│   ├── jam4.jpg
-│   └── banner.jpg
-├── README.md
-
-
 # NOVACHRON - Luxury Timepieces
 
 **NOVACHRON** is a website for a luxury watch brand that offers exclusive collections with elegant designs and high precision. The website is designed to showcase products, provide information about the brand, and allow customers to contact the NOVACHRON team.
